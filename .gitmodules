@@ -1,3 +1,6 @@
 [submodule "StreamAPI1"]
 	path = StreamAPI1
 	url = git@github.com:KirSanich/StreamAPI1.git
+[submodule "StreamHashMap"]
+	path = StreamHashMap
+	url = git@github.com:KirSanich/StreamHashMap.git
